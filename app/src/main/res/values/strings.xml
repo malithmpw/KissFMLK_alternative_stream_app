@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_version_number">1.0</string>
+    <string name="menu_settings">Settings</string>
+    <string name="app_name">Kiss 96.9 Stream</string>
+    <string name="developer_message">This is NOT the original Kiss Fm application and I have created this for my usage and I have only focused on the streaming the radio and other features on official app is not available in this application. \n\nI have improved the streaming and added foreground streaming service so that music will not be interrupted while you are using other application and you can stop and refresh the stream without opening the app.
+    </string>
+    <string name="developer_email">malithmpw@gmail.com</string>
+    <string name="developer_name">Malith Wimalarathna</string>
+    <string name="where_awesome_people_hangout">Where Awesome People Hangout!</string>
+    <string name="desc">desc</string>
+</resources>
